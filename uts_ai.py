@@ -85,3 +85,4 @@ for point in data_test:
    #Setelah menambahkan kode, jalankan sel dengan menekan tombol play di sebelah kiri sel atau menggunakan kombinasi tombol Shift+Enter, hasilnya akan ditampilkan di bawah sel.
    #Simpan notebook di Google Drive dengan memilih "File" > "Save a copy in Drive". Ini akan membuat salinan notebook di Google Drive Anda.
    #Setelah selesai menggunakan Google Colab, pastikan untuk menutup notebook dan menyimpannya di Google Drive Anda atau unduh dalam format .ipynb.
+   
